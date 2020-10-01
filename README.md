@@ -50,7 +50,8 @@ implementation includes all of the data needed to
 load tables from `.csv` files and run the query
 engine to produce the final output.
 
-Your job is to implement methods / functions labeled with: `// STUDENTS: FILL IN THIS FUNCTION`. Your implementation should generate code whose behavior matches the examples in [./expected_results/](./expected_results/).
+Your job is to implement methods / functions labeled with: `// STUDENTS: FILL IN THIS FUNCTION`. Your implementation should generate code whose behavior matches the examples in [./expected_results/](./expected_results/) up to
+the order of rows in the table.
 
 ## Grading and Submission
 
