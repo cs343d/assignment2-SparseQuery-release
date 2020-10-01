@@ -1,0 +1,8 @@
+Input table file ./tables/all_volumes_legal.csv has 12363 lines
+Result:
+<TABLE>,asset-class_counts
+STRING,INT
+asset-class,count
+bond,75
+stock,96
+

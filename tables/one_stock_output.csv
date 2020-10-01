@@ -1,0 +1,17 @@
+<TABLE>,tradable
+asset-name,asset-class
+STRING,STRING
+Dell,stock
+<TABLE>,price-over-time
+day,asset-name,price
+INT,STRING,FLOAT
+0,Dell,1.0
+27,Dell,2.4
+<TABLE>,volume-over-time
+day,asset-name,volume
+INT,STRING,FLOAT
+1,Dell,2.0
+<TABLE>,trades
+trade-id,day,asset-name,quantity
+INT,INT,STRING,INT
+1923,3,Dell,349

@@ -1,0 +1,8 @@
+Input table file ./tables/one_stock_one_bond.csv has 25 lines
+Result:
+<TABLE>,asset-class_counts
+STRING,INT
+asset-class,count
+bond,1
+stock,1
+

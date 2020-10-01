@@ -1,0 +1,2 @@
+Input table file ./tables/one_stock.csv has 0 lines
+Assertion failed: (false), function getTable, file main.cpp, line 532.

@@ -1,0 +1,16 @@
+<TABLE>,tradable
+asset-name,asset-class
+STRING,STRING
+Wheat,bond
+<TABLE>,price-over-time
+day,asset-name,price
+INT,STRING,FLOAT
+123,Wheat,230
+<TABLE>,volume-over-time
+day,asset-name,volume
+INT,STRING,FLOAT
+123,Wheat,230
+<TABLE>,trades
+trade-id,day,asset-name,quantity
+INT,INT,STRING,INT
+28,3,Wheat,349
