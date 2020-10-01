@@ -12,7 +12,7 @@ In plain english the query over this database is:
 Find the number of trades of stocks and the
 number of trades of bonds whose price on
 trading days from 13 to 268 was never more
-than 299.0 or whose volume was never less
+than 299.0 or whose volume on trading days from 13 to 268 was never less
 than 10.0.
 
 If there are both stocks and bonds in the database
