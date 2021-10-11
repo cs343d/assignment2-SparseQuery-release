@@ -55,7 +55,7 @@ the order of rows in the table.
 
 ## Grading and Submission
 
-This project will be submitted through canvas and
+This project will be submitted through email and
 graded as a whole out of 100 points. We will judge
 the effort you put into optimizing the design.
 
